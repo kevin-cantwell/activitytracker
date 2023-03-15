@@ -1,3 +1,6 @@
+_Disclaimer: All code and even this entire readme (below this line) was written, debugged, and rewritten entirely using ChatGPT (in GPT-4 mode)._
+<hr>
+
 # Activity Tracker
 
 Activity Tracker is a simple Python script that prompts the user once per hour during the workday (9 am to 5 pm) to select their current activity from a list of predefined options. The user's selected activity and its corresponding timestamp are recorded in an SQLite database.
